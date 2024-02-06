@@ -1,0 +1,4 @@
+ninja-build: copyright-without-copyright-notice
+ninja-build: initial-upload-closes-no-bugs
+ninja-build: no-manual-page
+ninja-build: zero-byte-file-in-doc-directory
