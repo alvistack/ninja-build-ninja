@@ -1,0 +1,2 @@
+ninja-build source: file-without-copyright-information
+ninja-build source: no-debian-changes
